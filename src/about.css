@@ -1,8 +1,6 @@
 .about-bg {
   background: #aaa1ddc4;
   width: 100%;
- 
-
 }
 .about-bg h1 {
   text-align: center;
@@ -10,7 +8,6 @@
   color: #26a1da;
   font-size: 3rem;
   font-weight: 500;
- 
 }
 .about-section {
   display: flex;
@@ -28,14 +25,11 @@
   text-align: center;
   padding-top:10%;
   padding-right: 1%;
-
-
 }
 .profile-img img {
   width: 350px;
   border: 6px solid #131212;
   border-radius: 50%;
-
   margin: 5.6rem 2rem;
 }
 

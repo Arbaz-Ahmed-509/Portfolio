@@ -1,6 +1,6 @@
 import React from "react";
 import "./Project.css";
-import Image from "./img/nykaa.png";
+import Image from "./img/imdb.png";
 import Img from "./img/adminPanel.png";
 import Ima from "./img/todolist.png"
 
@@ -14,22 +14,21 @@ export default function Projects() {
           <div className="center">
             <div className="one">
               <img src={Image} alt="project" />
-              <h2>Clone of Nykaa</h2>
+              <h2>Imdb Movies Search</h2>
               <p>
-              Nykaa is India’s leading beauty and fashion platform that offers
-              a comprehensive range of cosmetics, engagement prodducts and expert assistance.
+                Unlock a World of Entertainment: Explore Movies, TV Shows, and People on TMDb.
               </p>
-              <p>Teck-Stack: HTML | CSS | Javascript</p>
+              <p>Teck-Stack: HTML | CSS | Javascript | React.Js | Tailwind | Redux</p>
 
               <a
-                href="https://srinivasgokarla.github.io/Nyka_clone/index.html"
+                href="https://imdb-movies-search.vercel.app/"
                 target="_blank"
                 rel="noreferrer"
               >
                 <button>Demo</button>
               </a>
               <a
-                href="https://github.com/srinivasGokarla/Nyka_clone"
+                href="https://github.com/Arbaz-Ahmed-509/ImdbMovies"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -41,8 +40,7 @@ export default function Projects() {
               <img src={Img} alt="project" />
               <h2>Admin Panel</h2>
               <p>
-              About
-This project is a clone of (HealthKart.com) which is India’s largest online health & fitness store for men and women. Shop online from the latest collections of health the best brands.
+                 About This Project Incorporate 'Analytics & Statistics,' 'Bar & Pie Charts,' and 'Tables' for data-driven insights and efficient organization..
               </p>
               <p>
                 Teck-Stack: HTML | CSS | Javascript | React.Js | Material UI |
@@ -67,8 +65,7 @@ This project is a clone of (HealthKart.com) which is India’s largest online he
               <img src={Ima} alt="project" />
               <h2>TodoList</h2>
               <p>
-              About
-              Kickstarter campaigns make ideas into reality. It’s where creators share new visions for creative work with the communities that will come together to fund them.
+                About This Projec the User Can Able to Add data, Edit data and Delete.
               </p>
               <p>
                 Teck-Stack: HTML | CSS | JavaScript | Reactjs | BootStrap

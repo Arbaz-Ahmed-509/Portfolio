@@ -108,11 +108,11 @@ li.sideNavbar {
 /* code start */
 
 .home__meta {
-  margin: 6rem 5rem;
+  margin: 8rem 5rem;
 }
 .resume-option button {
   width: 200px;
-  margin: 2rem 0px;
+  margin: 6rem 0 2rem 0px;
   cursor: pointer;
 }
 
