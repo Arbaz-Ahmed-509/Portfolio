@@ -35,7 +35,7 @@ function Skills() {
                 </div>
                 <div className="icon-name">
                   <img
-                    src="https://img.icons8.com/ios-filled/70/000000/javascript-logo.png"
+                    src="https://img.icons8.com/color/70/000000/javascript.png"
                     alt="js"
                   />
                   <p>Javascript</p>
@@ -49,36 +49,50 @@ function Skills() {
                 </div>
                 <div className="icon-name">
                   <img
-                    src="https://img.icons8.com/color/70/000000/bootstrap.png"
-                    alt="bootstrap"
+                    src="https://img.icons8.com/color/70/000000/material-ui.png"  
+                    alt="material UI"
                   />
-                  <p>Bootstrap</p>
+                  <p>Material UI</p>
+                </div>
+                <div className="icon-name">
+                  <img
+                    src="https://img.icons8.com/color/70/000000/typescript.png"  
+                    alt="typeScript"
+                  />
+                  <p>TypeScript</p>
+                </div>
+                <div className="icon-name">
+                  <img
+                    src="https://img.icons8.com/color/70/000000/redux.png"  
+                    alt="redux"
+                  />
+                  <p>Redux</p>
                 </div>
               </div>
 
               <h2>Backend</h2>
               <div className="two">
+                
+                <div className="icon-name">
+                  <img
+                    src="icons8-java-64.png"
+                    alt="java"
+                  />
+                  <p>Core Java</p>
+                </div>
+                <div className="icon-name">
+                  <img
+                    src="https://img.icons8.com/color/70/000000/sql.png"
+                    alt="mongo"
+                  />
+                  <p>Oracle SQL</p>
+                </div>
                 <div className="icon-name">
                   <img
                     src="https://img.icons8.com/color/70/000000/nodejs.png"
                     alt="nodejs"
                   />
                   <p>NodeJs</p>
-                </div>
-                <div className="icon-name">
-                  <img
-                    width="70px"
-                    src="https://abhishek-mukade.vercel.app/images/icons/expressjs.svg"
-                    alt="ex"
-                  />
-                  <p>ExpressJs</p>
-                </div>
-                <div className="icon-name">
-                  <img
-                    src="https://img.icons8.com/color/70/000000/mongodb.png"
-                    alt="mongo"
-                  />
-                  <p>MongoDB</p>
                 </div>
               </div>
               <h2>Tools</h2>
@@ -96,13 +110,6 @@ function Skills() {
                     alt="vs"
                   />
                   <p>Visual Studio</p>
-                </div>
-                <div className="icon-name">
-                  <img
-                    src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/70/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"
-                    alt="postman"
-                  />
-                  <p>Postman</p>
                 </div>
               </div>
             </div>

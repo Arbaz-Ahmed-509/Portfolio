@@ -1,5 +1,5 @@
 import React from "react";
-import Image from "./img/photo.jpeg";
+import Image from "./img/arbz.jpeg";
 
 import "./about.css";
 export default function About() {
@@ -14,13 +14,8 @@ export default function About() {
           </div>
 
           <div className="para">
-       
             <p >
-            I’m a full-stack web developer and creative coder who specializes in MERN stack development. My mission is to translate user-focused designs into pixel-perfect websites or applications that run blazing fast. A passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems.
-            <br />
-            <br />I am a Mechanical Engineer Who Fell in Love
-           
-            With Coding.
+              As a passionate Software Engineer with a background in Mechanical Engineering, I've fallen in love with coding and Front-End development. My mission is to turn user-focused designs into pixel-perfect, high-performance websites and applications that not only look pixel-perfect but also perform blazingly fast. I'm an enthusiastic learner, always eager to embrace new technologies and work across various domains to tackle real-world challenges. I excel in exploring innovative solutions and leveraging technology to make a difference.
             </p>
           </div>
         </div>

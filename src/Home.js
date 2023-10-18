@@ -87,11 +87,11 @@ function Home() {
                 <h2 className="home__text pz__10">Hi, </h2>
                 <h2 className="home__text pz__10">I’m Arbaz Ahmed</h2>
                 <h3 className="home__text sweet pz__10">
-                  Full-stack Web Developer.
+                  Full-stack Developer.
                 </h3>
                
                 <div className="resume-option">
-                  <a href="Gokarla_Srinivas.pdf" download="Gokarla_Srinivas.pdf">
+                  <a href="Arbaz_Resume.pdf" download="Arbaz_Resume.pdf">
                     <button className="btn highlighted-btn">Get Resume</button>
                   </a>
                 </div>
