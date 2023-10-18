@@ -129,8 +129,13 @@ a.bottom__to__top.active {
     width: 50px;
   }
   .two {
-    display: grid;
-    grid-template-columns: auto auto;
+    width: 70%;
+    border: 2px solid blue;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    /* display: grid; */
+    /* grid-template-columns: auto auto; */
   }
 }
 @media only screen and (max-width: 325px) {

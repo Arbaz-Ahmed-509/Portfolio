@@ -1,7 +1,7 @@
 import React from "react";
 import "./Project.css";
 import Image from "./img/nykaa.png";
-import Img from "./img/healthkart.png";
+import Img from "./img/adminPanel.png";
 import Ima from "./img/kickstarter.png"
 
 
@@ -39,24 +39,24 @@ export default function Projects() {
            
             <div className="one">
               <img src={Img} alt="project" />
-              <h2>Clone of HealthKart</h2>
+              <h2>Admin Panel</h2>
               <p>
               About
 This project is a clone of (HealthKart.com) which is India’s largest online health & fitness store for men and women. Shop online from the latest collections of health the best brands.
               </p>
               <p>
-                Teck-Stack: HTML | CSS | Javascript | Nodejs | MongoDB | ExpressJs
+                Teck-Stack: HTML | CSS | Javascript | React.Js | Material UI |
               </p>
 
               <a
-                href="https://hemantjayas.github.io/HealthKart/"
+                href="https://admin-panel-five-gamma.vercel.app/"
                 target="_blank"
                 rel="noreferrer"
               >
                 <button>Demo</button>
               </a>
               <a
-                href="https://github.com/Dhruvkagrawal/HealtKart.com-Clone"
+                href="https://github.com/Arbaz-Ahmed-509/AdminPanel"
                 target="_blank"
                 rel="noreferrer"
               >
