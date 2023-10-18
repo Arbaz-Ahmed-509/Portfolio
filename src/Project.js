@@ -2,7 +2,7 @@ import React from "react";
 import "./Project.css";
 import Image from "./img/nykaa.png";
 import Img from "./img/adminPanel.png";
-import Ima from "./img/kickstarter.png"
+import Ima from "./img/todolist.png"
 
 
 export default function Projects() {
@@ -65,24 +65,24 @@ This project is a clone of (HealthKart.com) which is India’s largest online he
             </div>
             <div className="one">
               <img src={Ima} alt="project" />
-              <h2>Clone of Kickstarter</h2>
+              <h2>TodoList</h2>
               <p>
               About
               Kickstarter campaigns make ideas into reality. It’s where creators share new visions for creative work with the communities that will come together to fund them.
               </p>
               <p>
-                Teck-Stack: HTML | CSS | Javascript | Nodejs | MongoDB | ExpressJs | Reactjs
+                Teck-Stack: HTML | CSS | JavaScript | Reactjs | BootStrap
               </p>
 
               <a
-                href="https://kickstarterclone0.netlify.app/"
+                href="https://todo-list-woad-five.vercel.app/"
                 target="_blank"
                 rel="noreferrer"
               >
                 <button>Demo</button>
               </a>
               <a
-                href="https://github.com/rv-vikram/Kickstarter_Clone"
+                href="https://github.com/Arbaz-Ahmed-509/TodoList"
                 target="_blank"
                 rel="noreferrer"
               >
