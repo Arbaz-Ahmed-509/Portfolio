@@ -3,18 +3,19 @@
    background: linear-gradient(
     -45deg,
     #8946A6,
-    #B762C1,
-    #EA99D5,
-    #FFCDDD,
     #D3DEDC,
     #92A9BD,
     #7C99AC,
     #FFEFEF,
+    #F2789F,
     #1A374D,
     #406882,
     #6998AB,
+    #B762C1,
+    #FEE3EC ,
+    #EA99D5,
+    #FFCDDD,
     #B1D0E0,
-    #F2789F,
     #F999B7,
     #F9C5D5,
     #FEE3EC 
@@ -108,20 +109,16 @@ li.sideNavbar {
 /* code start */
 
 .home__meta {
-  margin: 8rem 5rem;
+  margin: 0rem 5rem;
 }
 .resume-option button {
   width: 200px;
-  margin: 6rem 0 2rem 0px;
+  margin: 4rem 0 2rem 0px;
   cursor: pointer;
 }
-
 .ul-li .d__flex {
   margin-left: 18rem
-  
 }
-
-
 .home__meta p {
   color: rgb(12, 70, 197);
   font-size: 2rem;
