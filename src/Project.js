@@ -37,31 +37,6 @@ export default function Projects() {
             </div>
            
             <div className="one">
-              <img src={Img} alt="project" />
-              <h2>Admin Panel</h2>
-              <p>
-                 About This Project Incorporate 'Analytics & Statistics,' 'Bar & Pie Charts,' and 'Tables' for data-driven insights and efficient organization..
-              </p>
-              <p>
-                Teck-Stack: HTML | CSS | Javascript | React.Js | Material UI |
-              </p>
-
-              <a
-                href="https://admin-panel-five-gamma.vercel.app/"
-                target="_blank"
-                rel="noreferrer"
-              >
-                <button>Demo</button>
-              </a>
-              <a
-                href="https://github.com/Arbaz-Ahmed-509/AdminPanel"
-                target="_blank"
-                rel="noreferrer"
-              >
-                <button>GitHub Link</button>
-              </a>
-            </div>
-            <div className="one">
               <img src={Ima} alt="project" />
               <h2>TodoList</h2>
               <p>
@@ -80,6 +55,31 @@ export default function Projects() {
               </a>
               <a
                 href="https://github.com/Arbaz-Ahmed-509/TodoList"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <button>GitHub Link</button>
+              </a>
+            </div>
+            <div className="one">
+              <img src={Img} alt="project" />
+              <h2>Admin Panel</h2>
+              <p>
+                 About This Project Incorporate 'Analytics & Statistics,' 'Bar & Pie Charts,' and 'Tables' for data-driven insights and efficient organization..
+              </p>
+              <p>
+                Teck-Stack: HTML | CSS | Javascript | React.Js | Material UI |
+              </p>
+
+              <a
+                href="https://admin-panel-five-gamma.vercel.app/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <button>Demo</button>
+              </a>
+              <a
+                href="https://github.com/Arbaz-Ahmed-509/AdminPanel"
                 target="_blank"
                 rel="noreferrer"
               >

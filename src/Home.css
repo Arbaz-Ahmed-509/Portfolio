@@ -88,7 +88,6 @@ h3.home__text {
 }
 ul.sidebar.d__flex {
   flex-wrap: wrap;
- 
   height: 100%;
   position: fixed;
   right: 0%;
@@ -179,13 +178,11 @@ li.sideNavbar {
     width: 600px;
     margin: auto;
   }
-
   .home__meta {
     text-align: center;
     margin: 0;
     padding: 2rem;
   }
-
   .toggle__menu {
     display: flex;
     justify-content: flex-end;
@@ -199,7 +196,6 @@ li.sideNavbar {
   .navigation.pxy__30 {
     display:none;
   }
-
   svg.bi.bi-justify.white.pointer {
     width: 30px;
     height: 30px;
